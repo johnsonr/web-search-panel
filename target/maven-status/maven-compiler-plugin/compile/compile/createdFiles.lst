@@ -1,0 +1,7 @@
+com/embabel/vaadin/websearch/WebSearchResult.class
+com/embabel/vaadin/websearch/WebSearchPanel.class
+com/embabel/vaadin/websearch/WebSearchException.class
+com/embabel/vaadin/websearch/WebSearchProperties.class
+com/embabel/vaadin/websearch/ToolGatewayClient$1.class
+com/embabel/vaadin/websearch/ToolGatewayClient.class
+com/embabel/vaadin/websearch/WebSearchPanelAutoConfiguration.class
